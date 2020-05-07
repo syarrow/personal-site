@@ -10,6 +10,9 @@ meta_author: Yarrow S
 # Google webmaster tools
 google_verify:
 
+# Deal with folder structure  
+baseurl: /personal-site
+
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
